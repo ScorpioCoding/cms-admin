@@ -1,0 +1,26 @@
+###> php-storm ###
+.idea/*
+###< php-storm  ###
+
+###> vscode ###
+.vscode/*
+###< vscode ###
+
+###> composer ###
+composer.lock
+/vendor/*
+###< composer ###
+
+###> npm ###
+/node_modules/*
+package-lock.json
+###< npm ###
+
+###> symfony/webpack-encore-pack ###
+/node_modules/
+/public/build/
+###< symfony/webpack-encore-pack ###
+
+###> The build  ###
+/dist/*
+###< The build ###
